@@ -64,5 +64,4 @@ content/
 
 ## Licencia
 
-Obsah (markdown súbory v `content/`) © 2026 Nepokrytyi Yehor.  
-Quartz framework je distribuovaný pod [MIT licenciou](LICENSE.txt).
+Obsah (markdown súbory v `content/`) © 2026 Nepokrytyi Yehor.
